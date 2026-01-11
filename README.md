@@ -1,17 +1,17 @@
-## GDNPE & GDLPP & GUMAP
+# GDNPE & GDLPP & GUMAP
 这里是GDNPE、GDLPP、GUMAP等3个格拉斯曼流形上降维方法的源代码。
 
-### 文章链接
+## 文章链接
 GDNPE: [Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold.](https://doi.org/10.1016/j.sigpro.2025.110028)
 
 GDLPP: [Discriminant locality preserving projection on Grassmann Manifold for image-set classification.](https://doi.org/10.1007/s11227-024-06904-1)
 
 GUMAP: [MCFG with GUMAP: A Simple and Effective Clustering Framework on Grassmann Manifold.](https://doi.org/10.1007/978-981-96-5815-2_13)
 
-### 参考文献
+## 参考文献
 如果这几项工作对你有帮助，请考虑引用下面的文章：
 
-#### bibtex格式
+### bibtex格式
 ```
 @article{GDNPE,
   title={Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold},
@@ -44,9 +44,9 @@ GUMAP: [MCFG with GUMAP: A Simple and Effective Clustering Framework on Grassman
 }
 ```
 
-#### GB/T 7714格式
+### GB/T 7714格式
 ```
-[1] Benchao Li, Ting Wang, Ruisheng Ran. Discriminant Locality Preserving Projection on Grassmann Manifold for Image-Set Classification[J]. The Journal of Supercomputing, 2025, 81(2): 1-27.
-[2] Benchao Li, Yuamyuan Zheng, Ruisheng Ran, Bin Fang. Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold[J]. Signal Processing, 2025, 235: 110028.
+[1] Benchao Li, Yuamyuan Zheng, Ruisheng Ran, Bin Fang. Image-set classification using Discriminant Neighborhood Preserving Embedding on Grassmann manifold[J]. Signal Processing, 2025, 235: 110028.
+[2] Benchao Li, Ting Wang, Ruisheng Ran. Discriminant Locality Preserving Projection on Grassmann Manifold for Image-Set Classification[J]. The Journal of Supercomputing, 2025, 81(2): 1-27.
 [3] Benchao Li, Yun Zou, Ruisheng Ran. MCFG with GUMAP: A Simple and Effective Clustering Framework on Grassmann Manifold[C]. In: International Conference on Computational Visual Media (CVM 2025). Springer, 2025: 247-265. 
 ```
